@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yanlongbinluck
-- 👀 I’m interested in computer vision, object detection, hyperspectral images processing, etc.
+- 👀 I’m interested in computer vision, object detection, image recognition, hyperspectral images processing, etc.
 
 <!---
 yanlongbinluck/yanlongbinluck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
